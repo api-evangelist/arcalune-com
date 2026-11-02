@@ -1,4 +1,4 @@
-# arcalune-com
+# Arcalune Music
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,29 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-arcalune-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
+Arcalune Music is a Japanese‑origin online music library offering original compositions, fan‑arranged game tracks, and royalty‑free background music and sound effects. All tracks are available for free streaming and download, suitable for use in videos, live streams, and game projects. The site provides high‑quality MP3 files under Creative Commons licensing, with multilingual navigation (Japanese, English, Spanish, Portuguese, Hindi, Indonesian, French).
 
-**Areas:** Company
+**Areas:** Music · Free BGM · Sound Effects · Japanese · Creative Commons
 
-## arcalune-com on APIs.io
+## Arcalune Music on APIs.io
 
-Everything profiled for arcalune-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/arcalune-com/](https://apis.io/providers/arcalune-com/)** — or go straight to one of the APIs or properties below.
+Everything profiled for Arcalune Music is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/arcalune-com/](https://apis.io/providers/arcalune-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Arcalune Music MCP](https://apis.io/apis/arcalune-com/arcalune-music-mcp/) — Arcalune Music provides a Machine-Callable Protocol (MCP) for searching tracks, retrieving track details, and listing tags.
+- [Arcalune Music API](https://apis.io/apis/arcalune-com/arcalune-com-api/) — Arcalune Music API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-01); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Arcalune Music API Rules](https://apis.io/rules/arcalune-com/arcalune-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Arcalune Com Authentication](https://apis.io/security/arcalune-com/arcalune-com-authentication/)
+- [Arcalune Com Domain Security](https://apis.io/security/arcalune-com/arcalune-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Arcalune Com Scopes](https://apis.io/scopes/arcalune-com/arcalune-com-scopes/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://arcalune.com/)
+- [Privacy policy](https://arcalune.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/arcalune-com/](https://apis.io/providers/arcalune-com/).
+**Kin Score 30.5** — thin · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 33.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 19.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/arcalune-com/](https://apis.io/providers/arcalune-com/).
 
 ## How this profile is made
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for arcalune-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Arcalune Music: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
